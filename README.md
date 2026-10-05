@@ -3,6 +3,8 @@
 Projeto G2 · Tema 18 · Análise e Visualização de Dados com Python
 
 Professor: Alexandre Neves Louzada
+Aluno: Roger Gomes Viana
+Disciplina: Linguagens de Programação
 
 Análise e dashboard interativo de uma base **simulada** de turismo no Brasil, para investigar destinos mais
 visitados, sazonalidade, comparação entre regiões, impacto econômico e ocupação hoteleira.
