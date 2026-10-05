@@ -11,7 +11,7 @@ visitados, sazonalidade, comparação entre regiões, impacto econômico e ocupa
 | --- | --- |
 | Código-fonte (GitHub) | https://github.com/SEU_USUARIO/projeto-turismo-brasil |
 | Página do projeto (GitHub Pages) | https://SEU_USUARIO.github.io/projeto-turismo-brasil/ |
-| Dashboard (Streamlit Cloud) | https://SEU-APP.streamlit.app/ |
+| Dashboard (Streamlit Cloud) |https://turismo-brasil-rogerg7.streamlit.app/ |
 
 ## Perguntas respondidas
 
